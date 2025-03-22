@@ -1,4 +1,4 @@
- <center> <h1> Android Basic BMI Calculator with History </h1> </center>
+ <center> <h1> Android Basic BMI Calculator</h1> </center>
 
 The intention of this project is to create an application which can calculate the Body Mass Index of a person.
 The application is developed to provide the user a Healthy lifestyle by helping to keep track of their health progress according the Body Mass Index. Thus, users can manage their day to day consumption in a healthy manner.
