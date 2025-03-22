@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Calculate">Calculate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="weight">Weight</string>
+    <string name="bmivalue">Your BMI</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="updateprofile">Update Profile</string>
+    <string name="username">Your Name</string>
+    <string name="emailaddress">youremail@email.com</string>
+    <string name="ViewData">View Data</string>
+    <string name="delete">Clear All</string>
+    <string name="todo">TODO</string>
+    <string name="femaletext">Female</string>
+    <string name="male">Male</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="communicate">Communicate</string>
+    <string name="recommended_places">Recommended Places</string>
+    <string name="history">History</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="google_maps">Google Maps</string>
+
+</resources>
