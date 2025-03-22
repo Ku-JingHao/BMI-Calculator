@@ -61,13 +61,17 @@ Each category is visually represented with appropriate imagery to help users bet
 
 ## Interface Design
 **BMI Calculator**
+  
 ![image](https://github.com/user-attachments/assets/8501a81b-11fd-475a-b84c-aba8e57041e4)
 
 **View History**
+
 ![image](https://github.com/user-attachments/assets/9c865290-ef75-40cf-9165-54e90fada0c3)
 
 **Google Maps**
+
 ![image](https://github.com/user-attachments/assets/aafc993b-fde0-4777-9a07-c04eba9b064f)
 
 **Side Navigation Bar**
+
 ![image](https://github.com/user-attachments/assets/9c53be8b-6aab-4257-a92c-82ae1b3abefc)
